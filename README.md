@@ -1,3 +1,3 @@
 <div id="header" align="center">
-    <img src="https://drive.google.com/file/d/1lhHohPkqpvO__E45XtfrW-rr63Uuv1W4/view?usp=sharing" />
+    <img src="https://github.com/Sxzar/Sxzar/blob/main/assets/hello.gif?raw=true" />
 </div>
