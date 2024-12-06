@@ -93,4 +93,7 @@ Oh, and it’s also the secret lair where I stash the private projects I’m wor
     <a href="mailto:contact@stefan-nicolau.com">
         <img src="https://github.com/Sxzar/Sxzar/blob/main/assets/contact.gif?raw=true" alt="contact" height="150" loading="eager">
     </a>
+    <br clear="both" />
+    <img align="center" height=250 src="https://github-readme-stats.vercel.app/api/wakatime?username=Sxzar&theme=tokyonight&layout=compact" />
 </section>
+
