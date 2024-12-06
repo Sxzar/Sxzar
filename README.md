@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://github.com/Sxzar/Sxzar/blob/main/assets/code.gif?raw=true" width="150"/>
+    <img src="https://github.com/Sxzar/Sxzar/blob/main/assets/code.gif?raw=true" width="150" loading="eager"/>
 </div>
 <br />
 <div id="badges" align="center">
@@ -38,7 +38,7 @@
         <h2>💻 What I Bring to the Table</h2>
         <p>
             I wear a lot of hats (metaphorically, though hats are cool). My stack includes:
-             <img src="https://github.com/Sxzar/Sxzar/blob/main/assets/phone-small.gif?raw=true" width="200" align="right"/>
+             <img src="https://github.com/Sxzar/Sxzar/blob/main/assets/phone-small.gif?raw=true" width="200" align="right" loading="eager"/>
         </p>
         <div>
             <ul align="left">
@@ -74,7 +74,8 @@
 </section>
 <section>
     <h2>🛠️ What I’m Working On</h2>
-     <img src="https://github.com/Sxzar/Sxzar/blob/main/assets/laptop.gif?raw=true" alt="laptop" width="200" align="left" />
+    <br />
+     <img src="https://github.com/Sxzar/Sxzar/blob/main/assets/lapptop-padding.gif?raw=true" alt="laptop" width="250" align="left" loading="eager"/>
     <br /><br />
     <p>Right now, I’m focusing on refining my craft and exploring new ways to build custom websites that stand out. From tackling tricky bugs to obsessing over pixel-perfect layouts, there’s always something fun brewing in my code editor. (Let’s call it “Stefan’s Lab of Code and Chaos.”)</p><br /><br />
 </section>
@@ -90,6 +91,6 @@ Oh, and it’s also the secret lair where I stash the private projects I’m wor
 </section>
 <section align="center">
     <a href="mailto:contact@stefan-nicolau.com">
-        <img src="https://github.com/Sxzar/Sxzar/blob/main/assets/contact.gif?raw=true" alt="contact" height="150">
+        <img src="https://github.com/Sxzar/Sxzar/blob/main/assets/contact.gif?raw=true" alt="contact" height="150" loading="eager">
     </a>
 </section>
