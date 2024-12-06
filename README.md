@@ -1,27 +1,28 @@
 <div id="header" align="center">
-    <img src="https://github.com/Sxzar/Sxzar/blob/main/assets/hello.gif?raw=true" width="200"/>
+    <img src="https://github.com/Sxzar/Sxzar/blob/main/assets/code.gif?raw=true" width="150"/>
 </div>
+<br />
 <div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/stefan-nicolau/">
+    <a href="https://www.linkedin.com/in/stefan-nicolau/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="110" height="28">
     </a>
     &nbsp;
-    <a href="https://codepen.io/Sxzarr">
+    <a href="https://codepen.io/Sxzarr" target="_blank">
         <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen Badge" width="110" height="28">
     </a>
     &nbsp;
-    <a href="https://www.upwork.com/freelancers/~0117f6f61b86a89044?s=1110580755107926016">
+    <a href="https://www.upwork.com/freelancers/~0117f6f61b86a89044?s=1110580755107926016" target="_blank">
         <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="UpWork Badge" width="110" height="28">
     </a>
     &nbsp;
-    <a href="https://sxzar.com/">
+    <a href="https://sxzar.com/" target="_blank">
         <img src="https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white" alt="Webiste Badge" width="110" height="28">
     </a>
 </div>
 <div align="center">
     <br />
     <img src="https://komarev.com/ghpvc/?username=Sxzar&style=flat-square&color=blue" alt="Profile Views Badge" width="150" height="28"/>
-    <a href="https://wakatime.com/@Sxzar">
+    <a href="https://wakatime.com/@Sxzar" target="_blank">
         <img src="https://wakatime.com/badge/user/f45ae7fa-16e6-4538-a18d-858742388637.svg" alt="WakaTime Badge" width="200" height="28"/>
     </a>
     <br />
@@ -37,7 +38,7 @@
         <h2>💻 What I Bring to the Table</h2>
         <p>
             I wear a lot of hats (metaphorically, though hats are cool). My stack includes:
-             <img src="https://github.com/Sxzar/Sxzar/blob/main/assets/phone.gif?raw=true" width="200" align="right"/>
+             <img src="https://github.com/Sxzar/Sxzar/blob/main/assets/phone-small.gif?raw=true" width="200" align="right"/>
         </p>
         <div>
             <ul align="left">
@@ -73,7 +74,9 @@
 </section>
 <section>
     <h2>🛠️ What I’m Working On</h2>
-    <p>Right now, I’m focusing on refining my craft and exploring new ways to build custom websites that stand out. From tackling tricky bugs to obsessing over pixel-perfect layouts, there’s always something fun brewing in my code editor. (Let’s call it “Stefan’s Lab of Code and Chaos.”)</p>
+     <img src="https://github.com/Sxzar/Sxzar/blob/main/assets/laptop.gif?raw=true" alt="laptop" width="200" align="left" />
+    <br /><br />
+    <p>Right now, I’m focusing on refining my craft and exploring new ways to build custom websites that stand out. From tackling tricky bugs to obsessing over pixel-perfect layouts, there’s always something fun brewing in my code editor. (Let’s call it “Stefan’s Lab of Code and Chaos.”)</p><br /><br />
 </section>
 <section>
     <h2>🌍 A Little About Me</h2>
